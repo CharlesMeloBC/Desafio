@@ -1,0 +1,8 @@
+﻿.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.db
+
+bin/
+obj/
